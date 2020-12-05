@@ -1,0 +1,11 @@
+D:\users\VUCZ\Downloads\ASIGNACIÓN 4 HERRAMIENTAS DE DISEÑO\Model\bin\Debug\Model.dll
+D:\users\VUCZ\Downloads\ASIGNACIÓN 4 HERRAMIENTAS DE DISEÑO\Model\bin\Debug\Model.pdb
+D:\users\VUCZ\Downloads\ASIGNACIÓN 4 HERRAMIENTAS DE DISEÑO\Model\bin\Debug\EntityFramework.dll
+D:\users\VUCZ\Downloads\ASIGNACIÓN 4 HERRAMIENTAS DE DISEÑO\Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\users\VUCZ\Downloads\ASIGNACIÓN 4 HERRAMIENTAS DE DISEÑO\Model\bin\Debug\EntityFramework.xml
+D:\users\VUCZ\Downloads\ASIGNACIÓN 4 HERRAMIENTAS DE DISEÑO\Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\users\VUCZ\Downloads\ASIGNACIÓN 4 HERRAMIENTAS DE DISEÑO\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\users\VUCZ\Downloads\ASIGNACIÓN 4 HERRAMIENTAS DE DISEÑO\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\users\VUCZ\Downloads\ASIGNACIÓN 4 HERRAMIENTAS DE DISEÑO\Model\obj\Debug\Model.csproj.CopyComplete
+D:\users\VUCZ\Downloads\ASIGNACIÓN 4 HERRAMIENTAS DE DISEÑO\Model\obj\Debug\Model.dll
+D:\users\VUCZ\Downloads\ASIGNACIÓN 4 HERRAMIENTAS DE DISEÑO\Model\obj\Debug\Model.pdb
